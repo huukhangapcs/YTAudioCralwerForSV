@@ -8,5 +8,5 @@ Pipeline:
 - choose 10 chunks that has best speaker voice quality
 - remove noise by https://github.com/haoxiangsnr/FullSubNet/blob/main/docs/getting_started.md
 - remove silence by VAD method.
-========> Training audio
-Caution: avoid same speaker....
+- ========> Training audio
+
